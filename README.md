@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishka</h1>
 <h3 align="center">Exploring Tech !</h3>
-<img align="right" alt="Coding" width="400" src="f">
+<img align="right" alt="Coding" width="400" src="https://photos.google.com/photo/AF1QipOL6OsqoK4AwNzKiYKqYLftiwAWQzZ2RkyLGnhN">
 
 
 <h3 align="left">Connect with me:</h3>
