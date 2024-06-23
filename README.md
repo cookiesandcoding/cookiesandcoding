@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kanishka</h1>
-<h3 align="center">Exploring Tech !</h3>
+<h1 align="left">Hi💕, I'm Kanishka</h1>
+<h3 align="left">Exploring Tech 🏎️!</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kanishka-bhatia-198294312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kanishka-bhatia-198294312" height="30" width="40" /></a>
-<a href="https://instagram.com/kkanishkaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkanishkaaa" height="30" width="40" /></a>
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/skills?username=https://www.linkedin.com/in/kanishka-bhatia-198294312/" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
