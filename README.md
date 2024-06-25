@@ -55,15 +55,15 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cookiesandcoding&show_icons=true&locale=en&layout=compact" alt="cookiesandcosing" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesandcoding&show_icons=true&locale=en&layout=compact&theme=merko" alt="cookiesandcosing" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cookiesandcoding&show_icons=true&locale=en" alt="cookiesandcoding" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=cookiesandcoding&show_icons=true&locale=en&theme=merko" alt="cookiesandcoding" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding&" alt="cookiesandcoding" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding&theme=merko" alt="cookiesandcoding" />
 </p>
 
 
