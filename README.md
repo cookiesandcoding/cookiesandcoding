@@ -54,13 +54,18 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesandcoding&show_icons=true&locale=en&layout=compact&theme=merko" alt="cookiesandcosing" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=cookiesandcoding&show_icons=true&locale=en&theme=merko" alt="cookiesandcoding" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesandcoding&show_icons=true&locale=en&layout=compact&theme=merko" alt="cookiesandcosing" width="400" />
+    </p>
+  </div>
+  
+  <div style="flex: 1;">
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/?username=cookiesandcoding&show_icons=true&locale=en&layout=compact&theme=merko" alt="cookiesandcosing" width="400" />
+     </p>
+  </div>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding&theme=merko" alt="cookiesandcoding" />
