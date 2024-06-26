@@ -59,17 +59,22 @@
     </p>
   </div>
   
-  <div style="flex: 1;">
-    <p>
+  <div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <p style="margin-bottom: 0;">
       <img src="https://github-readme-stats.vercel.app/api/?username=cookiesandcoding&show_icons=true&locale=en&layout=compact&theme=merko" alt="cookiesandcosing" width="400" />
-     </p>
+    </p>
   </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <p style="margin-bottom: 0;">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding&theme=merko" alt="cookiesandcoding" />
+    </p>
+  </div>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding&theme=merko" alt="cookiesandcoding" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </p>
-
-
 
 
 
