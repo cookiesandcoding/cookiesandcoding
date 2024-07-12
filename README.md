@@ -20,7 +20,8 @@
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cookiesandcoding&show_icons=true&locale=en&layout=compact" alt="cookiesandcoding" /></p>
     </div>
     
-    <div>
+    
+  <div>
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cookiesandcoding&show_icons=true&locale=en" alt="GitHub Stats" /></p>
   </div>
   
