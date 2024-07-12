@@ -20,13 +20,13 @@
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cookiesandcoding&show_icons=true&locale=en&layout=compact" alt="cookiesandcoding" /></p>
     </div>
     
-    <div style="width: 33.33%; box-sizing: border-box; padding: 10px;">
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cookiesandcoding&show_icons=true&locale=en" alt="cookiesandcoding" /></p>
-    </div>
-    
-    <div style="width: 33.33%; box-sizing: border-box; padding: 10px;">
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding" alt="cookiesandcoding" /></p>
-    </div>
+    <div>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cookiesandcoding&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  </div>
+  
+  <div>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesandcoding" alt="GitHub Streak" /></p>
+  </div>
 </div>
 
 
