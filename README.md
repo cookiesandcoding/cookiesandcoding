@@ -2,7 +2,7 @@
 🛜I'm currently working on Genesis Website .<br>👯I'm open to collaborate on frontend projects .<br>🤝I'm currently learning Backend Technologies . 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkanishkaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kanishka-bhatia-198294312) 
 
 # 💻 Tech Stack:
