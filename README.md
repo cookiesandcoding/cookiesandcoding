@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛜I'm an Aspiring Full Stack Web Developer .<br>👯I'm open to collaborate on frontend projects .<br>🤝I'm currently learning Backend Technologies . 
+🛜  I'm an Aspiring Full Stack Web Developer .<br>👯I'm open to collaborate on frontend projects .<br>🤝I'm currently learning Backend Technologies . 
 
 
 # 🌐 Socials:
