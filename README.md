@@ -15,6 +15,6 @@ Check it out here 👉 [kanishka.dev](https://portfolio-kanishka-mu.vercel.app/)
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=cookiesandcoding&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cookiesandcoding)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
