@@ -1,6 +1,7 @@
 # 💫 About Me:
-🛜  I'm an Aspiring Full Stack Web Developer .<br>👯I'm open to collaborate on frontend and backend  projects .<br>🤝I'm currently learning Backend Technologies . 
-
+🛜 I'm an aspiring Full Stack Web Developer passionate about creating seamless user experiences. <br>
+👯 I'm open to collaborating on frontend and backend projects. <br>
+🤝 I'm currently deepening my knowledge in backend technologies. <br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkanishkaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-bhatia-198294312) 
