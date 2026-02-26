@@ -8,7 +8,7 @@
 
 
 # 🔗 Portfolio Website:
-Check it out here 👉 [kanishka.dev](https://portfolio-kanishka-mu.vercel.app/)
+Check it out here 👉 [kanishka.dev](https://cookiesandcoding.in/)
 
 
 # 💻 Tech Stack:
