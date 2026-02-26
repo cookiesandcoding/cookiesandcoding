@@ -8,7 +8,7 @@
 
 
 # 🔗 Portfolio Website:
-Check it out here 👉 [kanishka.dev](https://cookiesandcoding.in/)
+Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
 
 
 # 💻 Tech Stack:
