@@ -1,7 +1,7 @@
 # 💫 About Me:
-🛜 I'm an aspiring Full Stack Web Developer passionate about creating seamless user experiences. <br>
-👯 I'm open to collaborating on frontend and backend projects. <br>
-🤝 I'm currently deepening my knowledge in backend technologies. <br>
+🤖 Building AI-powered products using Machine Learning, Deep Learning, and Generative AI.
+💻 Developing scalable full-stack applications with Next.js, Python, and modern web technologies.
+🚀 Passionate about solving real-world problems through data-driven insights, intelligent automation, and user-centric design.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkanishkaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-bhatia-198294312) 
@@ -9,6 +9,47 @@
 
 # 🔗 Portfolio Website:
 Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
+
+# 🔗 Portfolio Website:
+Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
+
+# 🌐 Projects:
+
+### 1. Piggyyy - AI Expense Analyzer
+🔗 https://piggyyy.vercel.app/
+
+An AI-powered financial assistant that analyzes expenses, tracks cash flow, identifies spending patterns, and provides personalized budgeting recommendations.
+
+---
+
+### 2. WannaWatch - AI Movie Recommendation Platform
+🔗 https://wannawatch.vercel.app/
+
+An AI-powered movie discovery and watchlist platform that delivers personalized recommendations based on user preferences and viewing interests.
+
+---
+
+### 3. CricTok - IPL Score Predictor
+🔗 https://crictok.vercel.app/
+
+A deep learning-powered cricket analytics platform that predicts IPL match scores using historical match data, player statistics, and venue conditions.
+
+---
+
+### 4. Us - AI Relationship Hub
+🔗 https://us-app.vercel.app/
+
+An AI-powered relationship platform that helps couples manage memories, goals, savings, trips, milestones, and future plans in one shared space.
+
+---
+
+### 5. TokiMail - Letters to Your Future Self
+🔗 https://tokimail.vercel.app/
+
+A digital time-capsule platform that enables users to write letters to their future selves and schedule them for delivery at meaningful moments.
+
+---
+
 
 
 # 💻 Tech Stack:
