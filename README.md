@@ -10,9 +10,6 @@
 # 🔗 Portfolio Website:
 Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
 
-# 🔗 Portfolio Website:
-Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
-
 # 🌐 Projects:
 
 ### 1. Piggyyy - AI Expense Analyzer
