@@ -8,7 +8,7 @@
 
 
 # 🔗 Portfolio Website:
-Check it out here 👉 [cookiesandcoding.in](https://cookiesandcoding.in/)
+Check it out here : [cookiesandcoding.in](https://cookiesandcoding.in/)
 
 # 🌐 Projects:
 
