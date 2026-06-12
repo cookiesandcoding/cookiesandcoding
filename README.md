@@ -19,8 +19,8 @@ An AI-powered financial assistant that analyzes expenses, tracks cash flow, iden
 
 ---
 
-### 2. WannaWatch - AI Movie Recommendation Platform
-🔗 https://wannawatch.vercel.app/
+### 2. Bingelyyy - AI Movie Recommendation Platform
+🔗 https://bingelyyy.vercel.app/
 
 An AI-powered movie discovery and watchlist platform that delivers personalized recommendations based on user preferences and viewing interests.
 
