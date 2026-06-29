@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building AI-powered products using Machine Learning, Deep Learning, and Generative AI.Developing scalable full-stack applications with Next.js, Python, and modern web technologies. Passionate about solving real-world problems through data-driven insights, intelligent automation, and user-centric design.
+Building AI-powered products with Machine Learning, Deep Learning, and Generative AI. Developing scalable full-stack applications using Next.js, Python, and modern web technologies. Passionate about leveraging intelligent automation, data-driven insights, and user-centric design to solve real-world challenges.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kkanishkaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-bhatia-198294312) 
